@@ -2,7 +2,7 @@
 
 Esta es una aplicacion de calculadora de divisas simple desarrollada en Python utilizando POO.
 
-**Asignatura:**: Lenguajes de Programación
+**Asignatura:** Lenguajes de Programación
 **TSU:** Servicios en la nube
 **Nombres:** Diego Jose
 **Apellidos:** Herrera Contreras 
